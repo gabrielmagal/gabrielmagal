@@ -23,5 +23,3 @@
 <img align="center" alt= "SqlServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 <img align="center" alt= "Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div><br/>
-
-Apaixonado por tecnologia. Focado em aprimorar meus conhecimentos e ajudar outros colaboradores em tudo que estiver ao meu alcance.
