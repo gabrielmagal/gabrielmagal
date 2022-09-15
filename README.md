@@ -1,10 +1,9 @@
-
-### Olá, eu sou o Gabriel Almeida ✋
+### Olá, sou o Gabriel, tenho 21 anos e sou apaixonado por tecnologia. Focado em aprimorar meus conhecimentos e ajudar outros colaboradores em tudo que estiver ao meu alcance.
+<br/>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLBOGoH7qqVV3F-LkMnMBDw/featured)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmagal__/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-almeida-48b8461b0/)
-
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmagal&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que utilizo
