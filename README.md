@@ -1,4 +1,4 @@
-### Olá, sou o Gabriel, tenho 22 anos e sou apaixonado por tecnologia. Focado em aprimorar meus conhecimentos e ajudar outros colaboradores em tudo que estiver ao meu alcance.
+### Olá, sou o Gabriel, tenho 23 anos e sou apaixonado por tecnologia. Focado em aprimorar meus conhecimentos e ajudar outros colaboradores em tudo que estiver ao meu alcance.
 <br/>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLBOGoH7qqVV3F-LkMnMBDw/featured)
